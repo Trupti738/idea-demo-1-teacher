@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="fcec9fb6-87c6-477b-b742-5bc1a085046b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-    </list>
+    <list default="true" id="fcec9fb6-87c6-477b-b742-5bc1a085046b" name="Changes" comment="third commit" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -56,6 +57,82 @@
       <option name="presentableId" value="Default" />
       <updated>1678637243623</updated>
     </task>
+    <task id="LOCAL-00001" summary="second commit">
+      <created>1678638612645</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1678638612645</updated>
+    </task>
+    <task id="LOCAL-00002" summary="second commit">
+      <created>1678638916715</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1678638916715</updated>
+    </task>
+    <task id="LOCAL-00003" summary="added git clone command">
+      <created>1678639036437</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1678639036437</updated>
+    </task>
+    <task id="LOCAL-00004" summary="added hello.">
+      <created>1678639290149</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1678639290150</updated>
+    </task>
+    <task id="LOCAL-00005" summary="third commit">
+      <created>1678641254100</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1678641254101</updated>
+    </task>
+    <task id="LOCAL-00006" summary="third commit">
+      <created>1678641351499</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1678641351499</updated>
+    </task>
+    <task id="LOCAL-00007" summary="third commit">
+      <created>1678641379726</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1678641379726</updated>
+    </task>
+    <task id="LOCAL-00008" summary="third commit">
+      <created>1678641688257</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1678641688257</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="second commit" />
+    <MESSAGE value="added git clone command" />
+    <MESSAGE value="added hello." />
+    <MESSAGE value="feature shape" />
+    <MESSAGE value="third commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="third commit" />
   </component>
 </project>
